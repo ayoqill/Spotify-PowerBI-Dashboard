@@ -1,0 +1,407 @@
+{
+  "stats" : [ {
+    "date" : "2026-01-19",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Opening Night",
+      "streamCount" : 8,
+      "secondsPlayed" : 2231
+    }, {
+      "name" : "Dance With Me",
+      "streamCount" : 7,
+      "secondsPlayed" : 1241
+    }, {
+      "name" : "LOTUS",
+      "streamCount" : 6,
+      "secondsPlayed" : 1554
+    }, {
+      "name" : "La Pluie Et Le Beau Temps",
+      "streamCount" : 5,
+      "secondsPlayed" : 704
+    }, {
+      "name" : "ULTRA",
+      "streamCount" : 4,
+      "secondsPlayed" : 832
+    }, {
+      "name" : "Fire And The Thud",
+      "streamCount" : 4,
+      "secondsPlayed" : 762
+    }, {
+      "name" : "Mala Vida",
+      "streamCount" : 4,
+      "secondsPlayed" : 757
+    }, {
+      "name" : "PUBLIC ENEMY",
+      "streamCount" : 4,
+      "secondsPlayed" : 656
+    }, {
+      "name" : "Making Plans for Nigel",
+      "streamCount" : 4,
+      "secondsPlayed" : 492
+    }, {
+      "name" : "Nowhere Man - Remastered 2009",
+      "streamCount" : 4,
+      "secondsPlayed" : 573
+    } ],
+    "topArtists" : [ {
+      "name" : "Arctic Monkeys",
+      "streamCount" : 52,
+      "secondsPlayed" : 11779
+    }, {
+      "name" : "Nouvelle Vague",
+      "streamCount" : 46,
+      "secondsPlayed" : 8545
+    }, {
+      "name" : "Quai",
+      "streamCount" : 40,
+      "secondsPlayed" : 6274
+    }, {
+      "name" : "The Last Shadow Puppets",
+      "streamCount" : 22,
+      "secondsPlayed" : 4049
+    }, {
+      "name" : "FORCEPARKBOIS",
+      "streamCount" : 18,
+      "secondsPlayed" : 3829
+    }, {
+      "name" : "Midnight Fusic",
+      "streamCount" : 17,
+      "secondsPlayed" : 3997
+    }, {
+      "name" : "The Stone Roses",
+      "streamCount" : 16,
+      "secondsPlayed" : 3590
+    }, {
+      "name" : "Fontaines D.C.",
+      "streamCount" : 15,
+      "secondsPlayed" : 2870
+    }, {
+      "name" : "Tame Impala",
+      "streamCount" : 11,
+      "secondsPlayed" : 2737
+    }, {
+      "name" : "Interpol",
+      "streamCount" : 10,
+      "secondsPlayed" : 2355
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-12",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Starburster",
+      "streamCount" : 10,
+      "secondsPlayed" : 2034
+    }, {
+      "name" : "Roman Holiday",
+      "streamCount" : 9,
+      "secondsPlayed" : 2410
+    }, {
+      "name" : "Jackie Down The Line",
+      "streamCount" : 7,
+      "secondsPlayed" : 1519
+    }, {
+      "name" : "Bug",
+      "streamCount" : 7,
+      "secondsPlayed" : 1273
+    }, {
+      "name" : "I Love You",
+      "streamCount" : 6,
+      "secondsPlayed" : 1581
+    }, {
+      "name" : "If You’re Gonna Break My Heart",
+      "streamCount" : 6,
+      "secondsPlayed" : 1573
+    }, {
+      "name" : "I Want You",
+      "streamCount" : 6,
+      "secondsPlayed" : 1274
+    }, {
+      "name" : "Your House",
+      "streamCount" : 6,
+      "secondsPlayed" : 1051
+    }, {
+      "name" : "Dublin in Ecstasy",
+      "streamCount" : 5,
+      "secondsPlayed" : 1555
+    }, {
+      "name" : "Daffodil Lament - 2025 Remastered",
+      "streamCount" : 5,
+      "secondsPlayed" : 1554
+    } ],
+    "topArtists" : [ {
+      "name" : "Inhaler",
+      "streamCount" : 69,
+      "secondsPlayed" : 16071
+    }, {
+      "name" : "Fontaines D.C.",
+      "streamCount" : 59,
+      "secondsPlayed" : 12868
+    }, {
+      "name" : "The Cranberries",
+      "streamCount" : 49,
+      "secondsPlayed" : 10620
+    }, {
+      "name" : "Tulus",
+      "streamCount" : 39,
+      "secondsPlayed" : 8176
+    }, {
+      "name" : "Dannqrack",
+      "streamCount" : 32,
+      "secondsPlayed" : 4760
+    }, {
+      "name" : "Wunderhorse",
+      "streamCount" : 29,
+      "secondsPlayed" : 5260
+    }, {
+      "name" : "The Beatles",
+      "streamCount" : 22,
+      "secondsPlayed" : 3248
+    }, {
+      "name" : "The Last Shadow Puppets",
+      "streamCount" : 20,
+      "secondsPlayed" : 3421
+    }, {
+      "name" : "Wisp",
+      "streamCount" : 19,
+      "secondsPlayed" : 4077
+    }, {
+      "name" : "Mojave 3",
+      "streamCount" : 14,
+      "secondsPlayed" : 4233
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-05",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Lambat Tinggal/Takleh Catch Up",
+      "streamCount" : 11,
+      "secondsPlayed" : 1601
+    }, {
+      "name" : "V.I.P.",
+      "streamCount" : 10,
+      "secondsPlayed" : 1478
+    }, {
+      "name" : "Tsl",
+      "streamCount" : 9,
+      "secondsPlayed" : 1241
+    }, {
+      "name" : "Angsakelabu",
+      "streamCount" : 9,
+      "secondsPlayed" : 1189
+    }, {
+      "name" : "Hari Biasa",
+      "streamCount" : 8,
+      "secondsPlayed" : 1525
+    }, {
+      "name" : "3 Pagi",
+      "streamCount" : 8,
+      "secondsPlayed" : 1367
+    }, {
+      "name" : "M+M+U",
+      "streamCount" : 8,
+      "secondsPlayed" : 1134
+    }, {
+      "name" : "Mimpi",
+      "streamCount" : 7,
+      "secondsPlayed" : 1074
+    }, {
+      "name" : "TINGKAT 88",
+      "streamCount" : 6,
+      "secondsPlayed" : 1092
+    }, {
+      "name" : "Check Balik",
+      "streamCount" : 6,
+      "secondsPlayed" : 959
+    } ],
+    "topArtists" : [ {
+      "name" : "Dannqrack",
+      "streamCount" : 155,
+      "secondsPlayed" : 25142
+    }, {
+      "name" : "Drake",
+      "streamCount" : 43,
+      "secondsPlayed" : 10495
+    }, {
+      "name" : "Eemrun",
+      "streamCount" : 78,
+      "secondsPlayed" : 13752
+    }, {
+      "name" : "Arctic Monkeys",
+      "streamCount" : 32,
+      "secondsPlayed" : 6675
+    }, {
+      "name" : "Yuna",
+      "streamCount" : 24,
+      "secondsPlayed" : 5629
+    }, {
+      "name" : "lucidrari",
+      "streamCount" : 27,
+      "secondsPlayed" : 5625
+    }, {
+      "name" : "Lana Del Rey",
+      "streamCount" : 22,
+      "secondsPlayed" : 6061
+    }, {
+      "name" : "NIKI",
+      "streamCount" : 21,
+      "secondsPlayed" : 5163
+    }, {
+      "name" : "Perunggu",
+      "streamCount" : 16,
+      "secondsPlayed" : 4160
+    }, {
+      "name" : "The Last Shadow Puppets",
+      "streamCount" : 16,
+      "secondsPlayed" : 2918
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-01-25",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Opening Night",
+      "country" : "MY",
+      "position" : 1907
+    }
+  }, {
+    "date" : "2026-01-18",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Starburster",
+      "streamCount" : 10
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Dannqrack",
+      "listeningPercentage" : 22.118023787740164
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Tenxi",
+      "country" : "MY",
+      "secondsPlayed" : 18628,
+      "marketAvgSecondsPlayed" : 861.76874
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "aku dah faham",
+      "secondEntity" : "House Carpenter - Take 1"
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Eemrun", "Dannqrack", "Gard", "DIAMOND KAT GELANG", "KUALA LUMFLOW", "JAUH", "Small Planes", "DUFFLEBAG", "GAYAT" ],
+      "milestoneListeningSeconds" : 117743
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Biang Lara",
+      "dayStreaks" : 4
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Daisy Chain",
+      "country" : "MY",
+      "position" : 7421
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Au fond du rêve doré (feat. Françoise Hardy)",
+      "streamCount" : 16
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "ST12",
+      "country" : "MY",
+      "secondsPlayed" : 5029,
+      "marketAvgSecondsPlayed" : 753.35443
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Phantogram",
+      "listeningPercentage" : 23.945079144218994
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "The Neighbourhood",
+      "milestoneListeningSeconds" : 29603
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Killer Kaczynski",
+      "secondEntity" : "Teramini"
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Arctic Monkeys",
+      "dayStreaks" : 6
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Bertanya-tanya",
+      "streamCount" : 12
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "SNOWMAN",
+      "country" : "MY",
+      "position" : 4571
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Cigarettes After Sex",
+      "country" : "MY",
+      "secondsPlayed" : 11974,
+      "marketAvgSecondsPlayed" : 1329.287
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Nadin Amizah", "Guyon Waton", "denisa", "Pelanggaran", "sebuah tarian yang tak kunjung selesai", "hormat kepada angin", "Di Akhir Perang", "menangis di jalan pulang", "dan, selesai." ],
+      "milestoneListeningSeconds" : 109479
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Di Akhir Perang",
+      "streamCount" : 10
+    }
+  } ]
+}
