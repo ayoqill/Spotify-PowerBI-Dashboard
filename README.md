@@ -1,3 +1,2 @@
 # Spotify-PowerBI-Dashboard
-explore what i learned from comptia
-ETL and so on
+explore data profiling, ETL, recode data and derived variables to convert data into insight
