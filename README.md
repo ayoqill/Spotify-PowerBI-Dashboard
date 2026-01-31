@@ -1,4 +1,4 @@
 # Spotify-PowerBI-Dashboard
-explore data profiling, ETL, recode data and derived variables to convert data into insight
+Applied ETL, data preprocessing, Power Query with custom DAX measures for analytical insights.
 
-honestly just trying to apply what I've learned from CompTIA
+dataset from jun25-jan26
